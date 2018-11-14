@@ -1,3 +1,1 @@
-# ssoranno.github.io AHHHHHH
-
-Steve Soranno
+# ssoranno.github.io
