@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# <center><a id="intro"></a>Intro</center>
+## <center><a id="welcome"></a>Welcome</center>
 Welcome to my blog where I share my thoughts on my interests: 
 - Cloud Security
 - Product Security
