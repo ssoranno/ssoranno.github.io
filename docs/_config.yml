@@ -29,7 +29,7 @@ github_username:  ssoranno
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
 
