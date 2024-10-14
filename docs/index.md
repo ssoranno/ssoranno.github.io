@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 ## <center><a id="welcome"></a>Welcome</center>
 Welcome to my blog where I share my thoughts on my interests: 
