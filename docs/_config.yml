@@ -28,10 +28,16 @@ url: "ssoranno.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  ssoranno
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
+
+minima:
+  skin: dark
+
+header_pages:
+  - whoami.md
 
 
 #remote_theme: pages-themes/midnight@v0.2.0
