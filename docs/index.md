@@ -5,10 +5,4 @@
 layout: home
 title: Welcome
 ---
-# Welcome
-Welcome to my blog where I share my thoughts on my interests: 
-- Cloud Security
-- Product Security
-- Application Security
-- Business
-- Personal Finance
+Welcome to my blog where I share my thoughts on my interests Cloud Security, InfoSec, and personal finance.  Feel free to checkout more details on my background in the whoami tab.
