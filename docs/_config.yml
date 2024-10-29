@@ -22,7 +22,7 @@ title: "Steve's Thoughts"
 author: Steven Soranno
 #email: ssoranno12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Steve's thoughts on cloud security, solution architecture, and personal finance.
+  Steve's thoughts on Cloud Security, InfoSec, and the security industry in general.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ssoranno.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

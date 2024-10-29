@@ -7,4 +7,4 @@ Hello, my name is Steven Soranno and I am a CNAPP Solutions Engineer at Fortinet
 
 Outside of work I enjoy golfing, snowboarding, and volunteering at the occasional security conference (shoutout to [bsidesNYC](https://bsidesnyc.org/)).
 
-I created this blog as a place to document my thoughts and research on the cloud security, the cybersecurity industry, and life in general.  If you like what I write, feel free to reach out to me on [linkedin](https://www.linkedin.com/in/ssoranno/).
+I created this blog as a place to document my thoughts and research on the Cloud Security, InfoSec, and the security industry in general.  If you like what I write, feel free to reach out to me on [linkedin](https://www.linkedin.com/in/ssoranno/).
